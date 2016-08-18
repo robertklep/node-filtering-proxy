@@ -1,0 +1,14 @@
+
+filtering-proxy – a filtering HTTP/HTTPS proxy
+
+Usage: filtering-proxy [options]
+
+Options:
+  -P PORT --port PORT         Port to listen on [default: 3033]
+  -H HOST --host HOST         Hostname to listen on [default: localhost]
+  -l LEVEL --log-level LEVEL  Log level [default: info]
+  -d DIR --rule-dir DIR       Directory for filter rules [default: ~/.filtering-proxy/]
+  -U URL --upstream URL       Upstream proxy URL
+  -p FILE --pac-file FILE     PAC file for forwarding to upstream proxies
+  -h --help                   Show this screen
+  -v --version                Show version
