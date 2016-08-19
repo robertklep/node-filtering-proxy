@@ -7,12 +7,20 @@
   "license": "MIT",
   "dependencies": {
     "bunyan": "^1.8.1",
+    "charset": "^1.0.0",
+    "chokidar": "^1.6.0",
     "docopt": "^0.6.2",
     "express": "^4.14.0",
+    "hijackresponse": "^2.0.0",
     "http-proxy": "^1.14.0",
+    "iconv-lite": "^0.4.13",
+    "lodash": "^4.15.0",
     "lru-cache": "^4.0.1",
     "lru-memoize": "^1.0.1",
+    "micromatch": "^2.3.11",
     "pac-resolver": "^1.2.6",
-    "request": "^2.74.0"
+    "request": "^2.74.0",
+    "toml-j0.4": "^1.0.10",
+    "unstream": "^2.0.0"
   }
 }
