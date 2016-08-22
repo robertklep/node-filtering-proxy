@@ -19,7 +19,6 @@
     "memoizerific": "^1.8.4",
     "micromatch": "^2.3.11",
     "pac-resolver": "^1.2.6",
-    "toml-j0.4": "^1.0.10",
     "unstream": "^2.0.0"
   }
 }

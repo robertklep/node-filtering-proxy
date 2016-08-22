@@ -7,7 +7,7 @@ Options:
   -P PORT --port PORT         Port to listen on [default: 3033]
   -H HOST --host HOST         Hostname to listen on [default: localhost]
   -l LEVEL --log-level LEVEL  Log level [default: info]
-  -r FILE --rules-file FILE   File that contains filter rules [default: ~/.filtering-proxy/rules.toml]
+  -r FILE --rules-file FILE   File that contains filter rules [default: ~/.filtering-proxy/rules.js]
   -U URL --upstream URL       Upstream proxy URL
   -p FILE --pac-file FILE     PAC file for forwarding to upstream proxies
   -h --help                   Show this screen
