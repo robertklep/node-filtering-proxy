@@ -10,5 +10,6 @@ Options:
   -r FILE --rules-file FILE   File that contains filter rules [default: ~/.filtering-proxy/rules.js]
   -U URL --upstream URL       Upstream proxy URL
   -p FILE --pac-file FILE     PAC file for forwarding to upstream proxies
+  -t URL --test URL           Test URL against rules (and exit)
   -h --help                   Show this screen
   -v --version                Show version
