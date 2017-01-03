@@ -19,7 +19,7 @@
     "lru-cache": "^4.0.1",
     "memoizerific": "^1.8.4",
     "micromatch": "^2.3.11",
-    "pac-resolver": "^1.2.6",
+    "pac-resolver": "^2.0.0",
     "request": "^2.74.0",
     "unstream": "^2.0.0"
   }
